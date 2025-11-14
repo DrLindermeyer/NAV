@@ -1,0 +1,27 @@
+src = https://www.bolsadesantiago.com/api/RV_Instrumentos/getPointHistGAT?nemo={symbol}
+srcHeaders = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'}
+
+format.IN = '$(content).listaResult'
+format.OUT = {symbol},{D.DATE.trans('-')},{D.OPEN},{D.HIGH},{D.LOW},{D.ADJ_CLOSE},{D.VOLUME}
+
+1000000
+
+AGUAS-A
+IAM
+ALMENDRAL
+ENTEL
+ANTARCHILE
+COLBUN
+COPEC
+NUTRAVALOR
+INVERCAP
+CAP
+CCU
+CHILE
+QUINENCO
+VAPORES
+SMSAAM
+SQM-B
+SQM-A
+ORO BLANCO
+POTASIOS-A

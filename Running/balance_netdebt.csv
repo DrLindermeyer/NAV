@@ -1,0 +1,49 @@
+Holding,ID,Balance,Balance2,Description
+ALMENDRAL,ALMENDRAL,Cash,Cash,Efectivo y equivalentes al efectivo
+ALMENDRAL,ALMENDRAL,Cash,Cash,Otros activos financieros corrientes
+ALMENDRAL,ALMENDRAL,Long-Term Debt,Debt,Otros pasivos financieros no corrientes
+ALMENDRAL,ALMENDRAL,Short-Term Debt,Debt,Otros pasivos financieros corrientes
+ALMENDRAL,ENTEL,Cash,Cash,Efectivo y equivalentes al efectivo
+ALMENDRAL,ENTEL,Cash,Cash,Otros activos financieros corrientes
+ALMENDRAL,ENTEL,Long-Term Debt,Debt,Otros pasivos financieros no corrientes
+ALMENDRAL,ENTEL,Short-Term Debt,Debt,Otros pasivos financieros corrientes
+ANTARCHILE,ANTARCHILE,Cash,Cash,Efectivo y equivalentes al efectivo
+ANTARCHILE,ANTARCHILE,Cash,Cash,Otros activos financieros corrientes
+ANTARCHILE,ANTARCHILE,Long-Term Debt,Debt,Otros pasivos financieros no corrientes
+ANTARCHILE,ANTARCHILE,Short-Term Debt,Debt,Otros pasivos financieros corrientes
+ANTARCHILE,COLBUN,Cash,Cash,Efectivo y equivalentes al efectivo
+ANTARCHILE,COLBUN,Cash,Cash,Otros activos financieros corrientes
+ANTARCHILE,COLBUN,Long-Term Debt,Debt,Otros pasivos financieros no corrientes
+ANTARCHILE,COLBUN,Short-Term Debt,Debt,Otros pasivos financieros corrientes
+ANTARCHILE,COPEC,Cash,Cash,Efectivo y equivalentes al efectivo
+ANTARCHILE,COPEC,Cash,Cash,Otros activos financieros corrientes
+ANTARCHILE,COPEC,Long-Term Debt,Debt,Otros pasivos financieros no corrientes
+ANTARCHILE,COPEC,Short-Term Debt,Debt,Otros pasivos financieros corrientes
+ANTARCHILE,NUTRAVALOR,Cash,Cash,Efectivo y equivalentes al efectivo
+ANTARCHILE,NUTRAVALOR,Cash,Cash,Otros activos financieros corrientes
+ANTARCHILE,NUTRAVALOR,Long-Term Debt,Debt,Otros pasivos financieros no corrientes
+ANTARCHILE,NUTRAVALOR,Short-Term Debt,Debt,Otros pasivos financieros corrientes
+IAM,AGUAS-A,Cash,Cash,Efectivo y equivalentes al efectivo
+IAM,AGUAS-A,Cash,Cash,Otros activos financieros corrientes
+IAM,AGUAS-A,Long-Term Debt,Debt,Otros pasivos financieros no corrientes
+IAM,AGUAS-A,Short-Term Debt,Debt,Otros pasivos financieros corrientes
+IAM,IAM,Cash,Cash,Efectivo y equivalentes al efectivo
+IAM,IAM,Cash,Cash,Otros activos financieros corrientes
+IAM,IAM,Long-Term Debt,Debt,Otros pasivos financieros no corrientes
+IAM,IAM,Short-Term Debt,Debt,Otros pasivos financieros corrientes
+INVERCAP,CAP,Cash,Cash,Efectivo y equivalentes al efectivo
+INVERCAP,CAP,Cash,Cash,Otros activos financieros corrientes
+INVERCAP,CAP,Long-Term Debt,Debt,Otros pasivos financieros no corrientes
+INVERCAP,CAP,Short-Term Debt,Debt,Otros pasivos financieros corrientes
+INVERCAP,INVERCAP,Cash,Cash,Efectivo y equivalentes al efectivo
+INVERCAP,INVERCAP,Cash,Cash,Otros activos financieros corrientes
+INVERCAP,INVERCAP,Long-Term Debt,Debt,Otros pasivos financieros no corrientes
+INVERCAP,INVERCAP,Short-Term Debt,Debt,Otros pasivos financieros corrientes
+ORO_BLANCO,ORO_BLANCO,Cash,Cash,Efectivo y equivalentes al efectivo
+ORO_BLANCO,ORO_BLANCO,Cash,Cash,Otros activos financieros corrientes
+ORO_BLANCO,ORO_BLANCO,Long-Term Debt,Debt,Otros pasivos financieros no corrientes
+ORO_BLANCO,ORO_BLANCO,Short-Term Debt,Debt,Otros pasivos financieros corrientes
+PAMPA_CALICHERA,PAMPA_CALICHERA,Cash,Cash,Efectivo y equivalentes al efectivo
+PAMPA_CALICHERA,PAMPA_CALICHERA,Cash,Cash,Otros activos financieros corrientes
+PAMPA_CALICHERA,PAMPA_CALICHERA,Long-Term Debt,Debt,Otros pasivos financieros no corrientes
+PAMPA_CALICHERA,PAMPA_CALICHERA,Short-Term Debt,Debt,Otros pasivos financieros corrientes
